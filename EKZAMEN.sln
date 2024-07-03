@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1C67D2A8-7135-431A-9DCF-75ECE778D9B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abraba", "Abraba\Abraba.csproj", "{D6D40AB4-77F6-455D-8B91-56D044DBEDFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{19BFBDEF-AB87-4427-88EE-97E3FB7E2C36}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{A8348A40-6836-4C35-AD78-6DE4B813DE9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6D40AB4-77F6-455D-8B91-56D044DBEDFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D40AB4-77F6-455D-8B91-56D044DBEDFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D40AB4-77F6-455D-8B91-56D044DBEDFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D40AB4-77F6-455D-8B91-56D044DBEDFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D6D40AB4-77F6-455D-8B91-56D044DBEDFC} = {1C67D2A8-7135-431A-9DCF-75ECE778D9B3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D654D381-7EAE-450A-893B-78804700EFB4}
+	EndGlobalSection
+EndGlobal
